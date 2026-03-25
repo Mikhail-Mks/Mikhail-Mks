@@ -1,5 +1,5 @@
 ### Hi there!
-
+***
 My name is Mikhail. I am a data analyst.
 
 I have seen how the right dashboard can transform decision-making and how people abandoned bad ones.
