@@ -27,7 +27,8 @@ You can find a list of my articles and supporting documents **[here](https://git
 - **Substack** → [biwave.substack.com](https://biwave.substack.com/)
 - **YouTube** → [@BIWave](https://www.youtube.com/@BIWave)
 
-**I am Open to freelance dashboard projects, consulting, or interesting data challenges**. Feel free to reach out!
+**I am Open to freelance dashboard projects, consulting, or interesting data challenges**.  
+Feel free to reach out!
 
 
 
