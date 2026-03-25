@@ -29,9 +29,18 @@ You can find a list of my articles and supporting documents **[here](https://git
 
 **I am Open to freelance dashboard projects, consulting, or interesting data challenges**. Feel free to reach out!
 
+
+
 ***
 
 [Support me](https://www.donationalerts.com/r/biwave)
+
+***
+### 🛠️ My Tech Stack
+![Power BI](https://img.shields.io/badge/Power%20BI-%231F4E79.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-%234285F4.svg?style=for-the-badge&logo=looker&logoColor=white)
 
 <!--
 
