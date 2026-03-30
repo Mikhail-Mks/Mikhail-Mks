@@ -28,7 +28,8 @@ You can find a list of my **[articles and supporting documents here](https://git
 - **YouTube** → [@BIWave](https://www.youtube.com/@BIWave)
 
 **I am Open to freelance dashboard projects, consulting, or interesting data challenges**.  
-Feel free to reach out!
+
+**Feel free to reach out!**
 
 
 
