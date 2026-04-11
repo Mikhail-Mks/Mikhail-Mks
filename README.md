@@ -26,6 +26,10 @@ You can find a list of my **[articles and supporting documents here](https://git
 - **LinkedIn** → [linkedin.com/in/mmikushin](https://www.linkedin.com/in/mmikushin/)
 - **Substack** → [biwave.substack.com](https://biwave.substack.com/)
 - **YouTube** → [@BIWave](https://www.youtube.com/@BIWave)
+- **Tiktok** → [@mikhail_mikushin](https://www.tiktok.com/@mikhail_mikushin)
+- **Instagram** → [@mikhail_mikushin_data](https://www.instagram.com/mikhail_mikushin_data/)
+- **Facebook** → [@mikushinmikhail)](https://www.facebook.com/mikushinmikhail)
+- **Medium** → [@BIWave](https://medium.com/@BIWave)
 
 **I am Open to freelance dashboard projects, consulting, or interesting data challenges**.  
 
