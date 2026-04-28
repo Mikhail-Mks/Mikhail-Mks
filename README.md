@@ -1,6 +1,6 @@
 ### Hi there!
 ***
-My name is Mikhail. I am a data analyst.
+My name is Mikhail. I am a Data Analyst.
 
 I have seen how the right dashboard can transform decision-making and how people abandoned bad ones.
 
