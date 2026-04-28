@@ -31,7 +31,7 @@ You can find a list of my **[articles and supporting documents here](https://git
 - **Instagram** → [@mikhail_mikushin_data](https://www.instagram.com/mikhail_mikushin_data/)
 - **Facebook** → [@mikushinmikhail)](https://www.facebook.com/mikushinmikhail)
 - **Medium** → [@BIWave](https://medium.com/@BIWave)
-- - **Twitter / X** → [@MikhailMikushin](https://x.com/MikhailMikushin)
+- **Twitter / X** → [@MikhailMikushin](https://x.com/MikhailMikushin)
 
 **I am Open to freelance dashboard projects, consulting, or interesting data challenges**.  
 
