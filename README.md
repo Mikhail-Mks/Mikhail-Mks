@@ -23,7 +23,7 @@ You can find a list of my **[articles and supporting documents here](https://git
 ### Connect:
 
 
-- **Personal website** → https://mikhailmikushin.com/
+- **My website** → https://mikhailmikushin.com/
 - **LinkedIn** → [linkedin.com/in/mmikushin](https://www.linkedin.com/in/mmikushin/)
 - **Substack** → [biwave.substack.com](https://biwave.substack.com/)
 - **YouTube** → [@BIWave](https://www.youtube.com/@BIWave)
