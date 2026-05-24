@@ -19,6 +19,9 @@ https://github.com/Mikhail-Mks/Dashboards
 On a weekly basis, I share articles about **data analytics, Power BI and SQL**.  
   
 You can find a list of my **[articles and supporting documents here](https://github.com/Mikhail-Mks/Media)**.
+
+***
+### [AI Agents Skills](https://github.com/Mikhail-Mks/Skills)
 ***
 ### Connect:
 
