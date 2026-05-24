@@ -10,7 +10,7 @@ I dive deep into the world of data analysis and Power BI visualization.
 
 
 ***
-### My Dashboards Portfolio:
+### My Portfolio:
 
 https://github.com/Mikhail-Mks/Dashboards
 ***
