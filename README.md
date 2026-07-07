@@ -38,7 +38,7 @@ You can find a list of my **[articles and supporting documents here](https://git
 
 **I am Open to freelance projects, consulting, or interesting data challenges**.  
 
-**Feel free to reach out!**
+**Feel free to reach me out!**
 
 
 
